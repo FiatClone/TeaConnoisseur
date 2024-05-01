@@ -1,0 +1,6 @@
+# https://app.tea.xyz/
+---
+version: 1.0.0
+codeOwners:
+  - '0x3B19a1F1C8b4028d729Db3ad0030EF05C33e5D05'
+quorum: 1
